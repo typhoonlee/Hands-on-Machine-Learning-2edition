@@ -24,6 +24,9 @@
 - 更新代码示例以适应最新版本的Scikit-Learn、NumPy、Pandas、Matplotlib等库。
 - 修正第一版中读者反馈的错误。
 
+
+这里改了
+
 ##### 第一本和第二版各章节之间的比较如下：
 
 ![image-20200521144151515](https://raw.githubusercontent.com/chenhaishun/test_pic/master/typora202005/21/144152-780561.png)
