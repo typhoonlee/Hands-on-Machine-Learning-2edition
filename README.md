@@ -2,7 +2,7 @@
 
 ![image-20200521132045193](https://raw.githubusercontent.com/chenhaishun/test_pic/master/typora202005/21/132046-291502.png)
 
-
+11111111111111111111111
 
 📚 电子书下载地址：https://get.oreilly.com/ind_hands-on-machine-learning_confirm.html
 
@@ -23,6 +23,8 @@
 - 将所有的TensorFlow章节迁移到TensorFlow 2，并使用基于TensorFlow的Keras API，以简化代码示例。
 - 更新代码示例以适应最新版本的Scikit-Learn、NumPy、Pandas、Matplotlib等库。
 - 修正第一版中读者反馈的错误。
+
+这里又改了 嘻嘻
 
 ##### 第一本和第二版各章节之间的比较如下：
 
